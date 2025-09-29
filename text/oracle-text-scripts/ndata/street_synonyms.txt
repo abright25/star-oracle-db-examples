@@ -1,8 +1,0 @@
-STREET
-  SYN ST
-LANE
-  SYN LN
-AVENUE
-  SYN ave 
-WILLIAM
-  SYN billy

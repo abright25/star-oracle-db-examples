@@ -1,1 +1,0 @@
-Run these "analytics"-prefixed scripts standalone, or follow them as part of the complete Analytics class at https://tinyurl.com/devgym-classes

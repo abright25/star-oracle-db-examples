@@ -1,2 +1,0 @@
-ALTER TABLE mysales INMEMORY;
-ALTER SYSTEM FLUSH shared_pool;

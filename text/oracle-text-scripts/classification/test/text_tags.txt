@@ -1,3 +1,0 @@
-databases
-   NT tables
-   NT views

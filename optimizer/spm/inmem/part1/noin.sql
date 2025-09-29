@@ -1,1 +1,0 @@
-ALTER TABLE mysales NO INMEMORY;

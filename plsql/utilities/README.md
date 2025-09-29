@@ -1,1 +1,0 @@
-This folder contains miscellaneous utilities you might find useful in your Oracle Database development with PL/SQL.

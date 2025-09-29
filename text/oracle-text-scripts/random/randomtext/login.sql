@@ -1,1 +1,0 @@
-set timing on
